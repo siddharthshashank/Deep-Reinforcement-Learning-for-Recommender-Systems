@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-Created by luozhenyu on 2019/1/2
-"""
 import itertools
 import pandas as pd
 import numpy as np
