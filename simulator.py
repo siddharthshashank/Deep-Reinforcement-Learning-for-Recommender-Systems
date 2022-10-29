@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-Created by luozhenyu on 2018/11/26
-"""
 from pre_process_data import data
 import numpy as np
 
